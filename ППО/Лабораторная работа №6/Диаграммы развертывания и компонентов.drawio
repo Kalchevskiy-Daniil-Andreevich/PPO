@@ -1,0 +1,78 @@
+<mxfile host="Electron" modified="2023-12-10T09:47:55.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="D2swsWVaWxsW9yWglwgw" version="22.1.2" type="device">
+  <diagram name="Страница — 1" id="3236EgtnvFtTP5rybuEO">
+    <mxGraphModel dx="1000" dy="608" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nsgDZbth5Skvtr-joVGU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="nsgDZbth5Skvtr-joVGU-3" target="nsgDZbth5Skvtr-joVGU-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-2" value="протокол&lt;br&gt;HTTPS,&lt;br&gt;80" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nsgDZbth5Skvtr-joVGU-1" vertex="1" connectable="0">
+          <mxGeometry x="0.0877" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="230" width="360" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-4" value="&amp;lt;&amp;lt;Устройство&amp;gt;&amp;gt;&lt;br&gt;ПК/ноутбук" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="41" y="250" width="109" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-5" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="62" y="300" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-6" value="&amp;lt;&amp;lt;Среда выполнения&amp;gt;&amp;gt;&lt;br&gt;ОС Windows" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="61" y="320" width="153" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-7" value="&amp;lt;&amp;lt;Компонент&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;C#-приложение" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="99" y="370" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-8" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="nsgDZbth5Skvtr-joVGU-7" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-9" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="230" width="360" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-10" value="&amp;lt;&amp;lt;Устройство&amp;gt;&amp;gt;&lt;br&gt;Сервер приложения" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="470" y="250" width="131" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-11" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="502" y="300" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-12" value="&amp;lt;&amp;lt;Среда выполнения&amp;gt;&amp;gt;&lt;br&gt;ASP.NET" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="505" y="320" width="153" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-13" value="&amp;lt;&amp;lt;Компонент&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;контроллер" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="545" y="370" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-14" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="nsgDZbth5Skvtr-joVGU-13" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-15" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="227" y="566" width="360" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-16" value="&amp;lt;&amp;lt;Устройство&amp;gt;&amp;gt;&lt;br&gt;Сервер БД" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="227" y="592" width="109" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="nsgDZbth5Skvtr-joVGU-9" target="nsgDZbth5Skvtr-joVGU-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-22" value="протокол&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;TCP/IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nsgDZbth5Skvtr-joVGU-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.0116" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="314" y="626" width="174.01" height="167.17" as="geometry" />
+        </mxCell>
+        <mxCell id="nsgDZbth5Skvtr-joVGU-25" value="&amp;lt;&amp;lt;Среда выполнения&amp;gt;&amp;gt;&lt;br&gt;Microsoft SQL Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="324.5" y="697" width="153" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
